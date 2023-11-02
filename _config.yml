@@ -1,5 +1,4 @@
-
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 title: config的标题
 author: config的作者
 description: config的描述
